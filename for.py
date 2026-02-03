@@ -20,3 +20,10 @@ for i in range(2,11,  2):
     print("squaring numbers:")
 for i in range(5):
     print(i*i)
+
+    
+## if inside for loop
+print("if insise for loop:")
+for i in range(10):
+    if i%2==0:
+        print(i)
