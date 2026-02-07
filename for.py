@@ -33,10 +33,13 @@ print("break in for loop")
 for i in range(5):
     if i==6:
         break;
-print(i)
+    print(i)
 
 print("continue in for loop")
 for i in range(10):
     if i%2==0:
         continue
     print(i)
+
+
+
