@@ -26,3 +26,10 @@ for i in range(1,11):
         print("even")
     else:
         print("odd")
+    
+print("counting numberes:")
+count=0
+
+for i in range(1, 51):
+    count=count+1
+print("Total numbers:",count)
