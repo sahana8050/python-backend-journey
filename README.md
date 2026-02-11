@@ -19,6 +19,7 @@ This repository contains the programs I write while learning Python step by step
 - Printing even numbers
 - Squaring numbers using loops
 - Using `if` condition inside a `for` loop
+- count numbers
 
 ---
 
@@ -66,3 +67,4 @@ Each program helps me understand how loops and conditions work in Python.
 Beginner Python Learner  
 
 > “Learning to code one loop at a time.”
+
