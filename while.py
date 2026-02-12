@@ -29,3 +29,4 @@ while i<=50:
     count=count+1
     i=i+1
 print("Total numbers are:",count)
+
