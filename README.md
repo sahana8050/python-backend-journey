@@ -52,8 +52,9 @@ Each program helps me understand how loops and conditions work in Python.
 - Lists and tuples
 - Dictionaries
 - Basic problem solving
-
----
+- DSA concepts in python 
+- Arrays
+-
 
 ## 🛠 Tools Used
 - Python
