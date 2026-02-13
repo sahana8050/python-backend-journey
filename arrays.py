@@ -22,3 +22,14 @@ for x in arr:
     if x>=max_value:
         max_value=x
 print(max_value)
+
+print("\n minimum value")
+arr=[1,3,6,7,8]
+min_value=arr[0]
+for x in arr:
+    if x<=min_value:
+     mini_value=x
+print(mini_value)
+
+
+
