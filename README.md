@@ -54,7 +54,8 @@ Each program helps me understand how loops and conditions work in Python.
 - Basic problem solving
 - DSA concepts in python 
 - Arrays
--
+   * finding second largest number:
+  
 
 ## 🛠 Tools Used
 - Python
@@ -68,4 +69,5 @@ Each program helps me understand how loops and conditions work in Python.
 Beginner Python Learner  
 
 > “Learning to code one loop at a time.”
+
 
