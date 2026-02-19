@@ -42,13 +42,12 @@ for x in arr:
     if x>=largest:
         second_largest=largest
         largest=x
-    elif x>=second_largest and x!=largest:
+    elif x>second_largest and x!=largest :
         second_largest=x
-print(second_largest)
+        print(second_largest)
 
 
 
-print(":")
 
 
 
