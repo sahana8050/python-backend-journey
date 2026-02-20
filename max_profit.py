@@ -6,4 +6,4 @@ for x in arr:
         smallest=x                    #smallest=7            #smallest=x  smallest=1                   # then elif x-smallest>profit 5-1>0=4 true   # then elif x-smallest>profit  6-1>4 true
     elif x-smallest>profit:           # x-smallest 7-7=0 >0                                            #profit=x-smallest 5-1=4                     #profit=x smallest 6-1=5
         profit=x-smallest             #profit=0                                                        #profit=4                                     #profit=5  same as this loop continues untill end of arr index
-        print(profit)                 #profit=0
+print(profit)                 #profit=0
