@@ -9,6 +9,18 @@ str="sahana R"
 str=len(str)
 print(str)
 
+print("get string length of array:")
+arr=[]
+arr=len(arr)
+print(arr)
+
+
+print("length of char array:")
+char_array=['s','a','h','a','n','a']
+length=len(char_array)
+print(length)
+
+
 
 
 
