@@ -9,7 +9,7 @@ str="sahana R"
 str=len(str)
 print(str)
 
-print("get string length of array:")
+print("get length of array:")
 arr=[]
 arr=len(arr)
 print(arr)
@@ -21,8 +21,54 @@ length=len(char_array)
 print(length)
 
 
+print("length of string:") #here allocation array is like |s | a| h| a| |n | a| inside one one byte index  will allocates
+str="sahana"
+Length=len(str)
+print(Length)
+
+print("count the index using for loop:")
+s="sahana"
+index=0
+for numbers in s:
+ print(index,numbers)
+ index+=1
 
 
+print("using while loop")
+n="sahana"
+index=0
+while index<len(n):
+ print(index,n[index])
+ index+=1
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+    
 
 
 

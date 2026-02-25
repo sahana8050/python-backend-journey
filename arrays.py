@@ -10,10 +10,10 @@ arr.pop(4) #deleting item from array using .pop
 print(arr)
 
 for x in arr:
-    print(x)
+ print(x)
     
 for x in arr:
-    print(x, end=",") # \n is a new line
+ print(x, end=",") # \n is a new line
 
 
 print("\n maximum value:") #printing maximum value
@@ -44,7 +44,7 @@ for x in arr:
         largest=x
     elif x>second_largest and x!=largest :
         second_largest=x
-        print(second_largest)
+print(second_largest)
 
 
 
