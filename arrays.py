@@ -35,7 +35,7 @@ print(mini_value)
 
 
 print("second largest number:")
-arr=[5,1,9,3,97,8]
+arr=[5,2,9,3,97,8]
 largest=arr[0]
 second_largest=[0]
 for x in arr:
