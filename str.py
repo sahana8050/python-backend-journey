@@ -39,7 +39,16 @@ n="sahana"
 index=0
 while index<len(n):
  print(index,n[index])
- index+=1
+ index=index+1
+ 
+print("revers string:")  # we cant revers index of string but we can revers the string 
+str="sahana"               # in python strings are immutable
+str=str[::-1]  
+print(str)                     
+
+
+ 
+
 
 
 
