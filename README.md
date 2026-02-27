@@ -30,6 +30,8 @@ This repository contains the programs I write while learning Python step by step
 - Printing even numbers
 - Squaring numbers
 - Using `if` condition inside a loop
+- arrays
+- strings * mainly strings are immutable in python 
 
 Each program helps me understand how loops and conditions work in Python.
 
@@ -69,5 +71,6 @@ Each program helps me understand how loops and conditions work in Python.
 Beginner Python Learner  
 
 > “Learning to code one loop at a time.”
+
 
 
