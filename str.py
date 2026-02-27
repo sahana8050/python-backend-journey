@@ -44,8 +44,19 @@ while index<len(n):
 print("revers string:")  # we cant revers index of string but we can revers the string 
 str="sahana"               # in python strings are immutable
 str=str[::-1]  
-print(str)                     
+print(str)   
 
+
+print("using while loop revers string:")
+
+name="sana"
+length=len(name)
+rightIndex=length-1
+revers=""
+while rightIndex>=0:
+ revers+=name[rightIndex]
+ rightIndex-=1
+print(revers)
 
  
 
