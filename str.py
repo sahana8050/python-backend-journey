@@ -58,6 +58,10 @@ while rightIndex>=0:
  rightIndex-=1
 print(revers)
 
+
+#string compession 
+print("string compession:")
+
  
 
 
