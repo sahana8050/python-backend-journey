@@ -9,7 +9,7 @@ while index<len(a):
    index=index+1
 else:
  print("False") 
-  
+ #liner_search
 
    
   
