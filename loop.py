@@ -2,6 +2,12 @@ print("1 to 10 numbers:")     # this function also called as polymorphisum :same
 for i in range(11):
  print(i)
 
-print("1 to 10  numbers:")
+print("1 to 10  numbers:")    
 for s in range(1,11):
  print(s)
+
+print("reversing numbers:")    
+for n in range(10,0,-1):
+ print(n)
+
+
