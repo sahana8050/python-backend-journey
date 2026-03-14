@@ -31,7 +31,15 @@ This repository contains the programs I write while learning Python step by step
 - Squaring numbers
 - Using `if` condition inside a loop
 - arrays
-- strings * mainly strings are immutable in python 
+- strings * mainly strings are immutable in python
+- ASCII
+- linear_search
+- for_loops
+- max_profit finding
+- sortimg
+- string_compression
+- while_loops
+  
 
 Each program helps me understand how loops and conditions work in Python.
 
