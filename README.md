@@ -39,6 +39,7 @@ This repository contains the programs I write while learning Python step by step
 - sortimg
 - string_compression
 - while_loops
+- tasks
   
 
 Each program helps me understand how loops and conditions work in Python.
