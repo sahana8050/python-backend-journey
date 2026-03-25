@@ -46,6 +46,18 @@ for x in arr:
         second_largest=x
 print(second_largest)
 
+print("second maximum value")
+arr=[2,3,4,55,22]
+max=arr[0]
+second_max=arr[0]
+for x in arr:
+   if x>=second_max:
+      second_max=max
+      max=x
+   elif x>second_max and x!=max:
+      second_max=x
+print(second_max)
+   
 
 
 
