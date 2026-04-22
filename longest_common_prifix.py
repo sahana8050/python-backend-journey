@@ -8,4 +8,6 @@ for i in  range(len(first)):
      res=res+first[i]
 else:
     print(res)
+
+
     
