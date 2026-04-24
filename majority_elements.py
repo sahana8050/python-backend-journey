@@ -7,4 +7,4 @@ for i in nums:
     if count[i]>maxCount:
         maxCount=count[i]
         res=i
-print(res)
+print(res) 
